@@ -1,0 +1,2 @@
+# barkod
+Satış Qeydiyyat Sistemi 
